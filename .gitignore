@@ -3,9 +3,9 @@ Code/app/database.db
 Code/app/venv/
 Code/app/.idea/
 Code/app/__pycache__/
-Code/app/database.db
-Code/app/database.db
-Data/VAP_DeID_2022-01-12 from CTSI.xlsx
-Data/.ipynb_checkpoints/
-Code/Data/.ipynb_checkpoints/DataCleaningExploration-checkpoint.ipynb
+Code/Data/.ipynb_checkpoints/
+Code/Data/__pycache__/
 Code/Data/VAP_DeID_2022-01-12 from CTSI.xlsx
+Code/Data/database.db
+.idea/
+Code/Data/database.db
